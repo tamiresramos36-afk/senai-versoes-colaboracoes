@@ -1,2 +1,2 @@
-# senai-versoes-colaboracoes
+# Projetos
 Soluções de conflitos
